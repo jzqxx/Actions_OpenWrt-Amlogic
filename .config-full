@@ -3436,7 +3436,7 @@ CONFIG_PACKAGE_python3-codecs=y
 CONFIG_PACKAGE_python3-ctypes=y
 # CONFIG_PACKAGE_python3-ctypes-src is not set
 # CONFIG_PACKAGE_python3-curl is not set
-CONFIG_PACKAGE_python3-dateutil=y
+# CONFIG_PACKAGE_python3-dateutil is not set
 # CONFIG_PACKAGE_python3-dateutil-src is not set
 CONFIG_PACKAGE_python3-dbm=y
 # CONFIG_PACKAGE_python3-dbm-src is not set
@@ -3457,13 +3457,13 @@ CONFIG_PACKAGE_python3-dns=y
 # CONFIG_PACKAGE_python3-dns-src is not set
 # CONFIG_PACKAGE_python3-docker is not set
 # CONFIG_PACKAGE_python3-dockerpty is not set
-CONFIG_PACKAGE_python3-docopt=y
+# CONFIG_PACKAGE_python3-docopt is not set
 # CONFIG_PACKAGE_python3-docopt-src is not set
 # CONFIG_PACKAGE_python3-docutils is not set
-CONFIG_PACKAGE_python3-dotenv=y
+# CONFIG_PACKAGE_python3-dotenv is not set
 # CONFIG_PACKAGE_python3-dotenv-src is not set
 # CONFIG_PACKAGE_python3-drf-nested-routers is not set
-CONFIG_PACKAGE_python3-email=y
+# CONFIG_PACKAGE_python3-email is not set
 # CONFIG_PACKAGE_python3-email-src is not set
 # CONFIG_PACKAGE_python3-engineio is not set
 # CONFIG_PACKAGE_python3-et_xmlfile is not set
